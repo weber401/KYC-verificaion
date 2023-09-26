@@ -22,9 +22,8 @@ https://www.kaggle.com/datasets/reubensuju/celeb-df-v2
 
 
 # References
-Group who did the render work and friends who introduced to these resources and helped me with this projects.
 
 https://www.youtube.com/watch?v=lEqiFvWI6k4&list=WL
-https://www.youtube.com/watch?v=O3_MypgLuvc&list=WL&index=137
+
 
 
